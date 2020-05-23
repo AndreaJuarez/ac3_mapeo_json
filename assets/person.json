@@ -1,0 +1,203 @@
+[
+
+{
+"imagen": "http://www.pngall.com/wp-content/uploads/2016/05/Iron-Man.png",
+"nombre": "Iron Man",
+"identidad": "Tony Stark",
+"edad": "50 años",
+"altura": "1.74",
+"genero": "Masculino",
+"descripcion": "Un científico, empresario, fabricante de armas y equipos de combate. Es uno de los héroes más populares de Marvel Comics. Tony no tiene poderes, por lo que lo único que lo proteje es su armadura. En ella puede volar, puede lanzar rayos repulsores de sus brazos y de su pecho."
+},
+
+{
+"imagen": "http://pngimg.com/uploads/captain_america/captain_america_PNG91.png",
+"nombre": "Capitán América",
+"identidad": "Steve Rogers",
+"edad": "27 años",
+"altura": "1.64",
+"genero": "Masculino",
+"descripcion": "Es un hombre agradable y generoso y ayuda a su equipo siempre que sea posible. Se mantiene fiel a los ideales valores estadounidenses y sacrificaría su vida por cualquier otro buen ciudadano. Steve es un líder valiente e independiente para su equipo."
+},
+
+{
+"imagen": "https://i1.wp.com/multarte.com.br/wp-content/uploads/2019/03/hulk-png-sem-fundo5.png?fit=2058%2C2574&ssl=1",
+"nombre": "Hulk",
+"identidad": "Dr. Robert Bruce Banner",
+"edad": "47 años",
+"altura": "1.73",
+"genero": "Masculino",
+"descripcion": "Un ser humanoide enorme de piel verde, corpulento y musculoso que posee una gran fortaleza física.  Banner se transforma físicamente en Hulk cuando está sometido a estrés emocional."
+},
+
+{
+"imagen": "http://www.pngall.com/wp-content/uploads/2016/06/Hawkeye-PNG-Image.png",
+"nombre": "Hawkeye",
+"identidad": "Clinton Francis",
+"edad": "46 años",
+"altura": "1.88",
+"genero": "Masculino",
+"descripcion": "Clint adaptó sus habilidades de tiro con arco para convertirse en una atracción de carnaval estrella, un maestro arquero llamado Ojo de Halcón, fue testigo de Iron Man en acción y se inspiró para convertirse en un héroe disfrazado."
+},
+
+{
+"imagen": "http://www.pngmart.com/files/2/Ant-Man-PNG-Image.png",
+"nombre": "AntMan",
+"identidad": "Dr. Henry Hank",
+"edad": "47 años",
+"altura": "1.75", 
+"genero": "Masculino",
+"descripcion": "Después de descubrir una sustancia química, a la que llamó Pym Particles, que permitiría al usuario alterar su tamaño, se armó con un casco que podía controlar a las hormigas. Después de eso, Pym se reduciría al tamaño de un insecto para convertirse en el Ant-Man que resuelve misterios."
+},
+
+{
+"imagen": "https://img00.deviantart.net/af54/i/2017/171/3/2/star_lord_by_hz_designs-dbddrln.png",
+"nombre": "Star Lord",
+"identidad": "Peter Jason Quill",
+"edad": "44 años",
+"altura": "1.88",
+"genero": "Masculino",
+"descripcion": "Es un superhéroe de Marvel Comics que es el líder de los Guardianes de la Galaxia y un personaje importante del Universo Cinematográfico de Marvel."
+},
+
+{
+"imagen": "http://www.pngmart.com/files/2/Gambit-PNG-Transparent-Image.png",
+"nombre": "Gambit",
+"identidad": "Remy Etienne LeBeau",
+"edad": "30 años",
+"altura": "1.88",
+"genero": "Masculino",
+"descripcion": "es un superhéroe del universo Marvel Comics y miembro de los X-Men, pertenece a una subespecie de humanos llamados mutantes, que nacen con habilidades sobrehumanas. "
+},
+
+{
+"imagen": "http://www.pngall.com/wp-content/uploads/2016/05/Wolverine.png",
+"nombre": "Wolverine",
+"identidad": "James Howlett",
+"edad": "90 años",
+"altura": "1.60",
+"genero": "Masculino",
+"descripcion": "Es un mutante que posee sentidos afinados a los animales, capacidades físicas mejoradas, poderosa capacidad de regeneración conocida como un factor de curación, y tres garras retráctiles en cada mano."
+},
+
+{
+"imagen": "http://64.207.180.146/~d3go/wp-content/uploads/2015/04/Quicksilver.png",
+"nombre": "QuickSilver",
+"identidad": "Pietro Maximoff",
+"edad": "54 años",
+"altura": "1.65",
+"genero": "Masculino",
+"descripcion": "El hermano mellizo de la Bruja Escarlata, y el medio hermano paterno de Polaris. Tiene la habilidad sobrehumana de moverse a grandes velocidades."
+},
+
+{
+"imagen": "https://orig00.deviantart.net/063a/f/2016/116/4/f/deadpool___transparent_by_asthonx1-da0cljb.png",
+"nombre": "DeadPool",
+"identidad": "Wade Winston Wilson",
+"edad": "29 años",
+"altura": "1.88",
+"genero": "Masculino",
+"descripcion": "Como un mercenario mentalmente inestable y desfigurado, Deadpool apareció originalmente como un villano en el cómic."
+},
+
+{
+"imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f359881d-6bb2-4391-aba6-779f7084edd4/dcu43e8-d127dc85-60e1-4467-bf64-8f5d15b42cf0.png/v1/fill/w_676,h_1183,strp/captain_marvel___transparent_by_asthonx1_dcu43e8-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI0MCIsInBhdGgiOiJcL2ZcL2YzNTk4ODFkLTZiYjItNDM5MS1hYmE2LTc3OWY3MDg0ZWRkNFwvZGN1NDNlOC1kMTI3ZGM4NS02MGUxLTQ0NjctYmY2NC04ZjVkMTViNDJjZjAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tMnE592nCPHz5Uo7MWAdBtqmEQlZWPL_Fz2e-u5SAQw",
+"nombre": "Capitana Marvel",
+"identidad": "Carol Danvers",
+"edad": "52 años",
+"altura": "1.68",
+"genero": "Femenino",
+"descripcion": "La ex oficial y piloto de pruebas de la Fuerza Aérea, Carol Danvers, se convierte en la heroína más poderosa del universo cuando la Tierra queda atrapada en medio de una guerra galáctica, es una rebelde y a través de su viaje descubre su verdadera identidad y el camino para dominar sus increíbles poderes."
+},
+
+{
+"imagen": "http://www.pngmart.com/files/2/Thor-PNG-Transparent-Image.png",
+"nombre": "Thor",
+"identidad": "Thor Odinson",
+"edad": "58 años",
+"altura": "1.90",
+"genero": "Masculino",
+"descripcion": "El personaje, que se basa en la deidad nórdica del mismo nombre, es el dios del trueno asgardiano poseedor del martillo encantado, Mjolnir, que le otorga la capacidad de volar y manipular el clima entre sus otros atributos sobrehumanos."
+},
+
+{
+"imagen": "http://www.pngmart.com/files/2/Cyclops-Transparent-Background.png",
+"nombre": "Ciclope",
+"identidad": "Scott Summers",
+"edad": "57 años",
+"altura": "1.91",
+"genero": "Masculino",
+"descripcion": "Cíclope es un miembro de una subespecie de humanos conocidos como mutantes, que nacen con habilidades sobrehumanas. Puede emitir potentes rayos de energía de sus ojos. No puede controlar las descargas sin la ayuda de gafas especiales que debe usar en todo momento."
+},
+
+{
+"imagen": "https://vignette.wikia.nocookie.net/vsbattles/images/f/f3/Nathan_Summers_(Earth-12131)_001.png/revision/latest?cb=20151022173059",
+"nombre": "Cable",
+"identidad": "Nathaniel Summers",
+"edad": "30 años",
+"altura": "2.03",
+"genero": "Masculino",
+"descripcion": "Es el hijo de Viaje en el tiempo de Cíclope que fue infectado con el mortal virus tecno-orgánico durante su infancia, que mantiene a raya usando sus avanzados poderes psiónicos."
+},
+
+{
+"imagen": "https://vignette.wikia.nocookie.net/parody/images/8/87/Doctor_Strange.png/revision/latest?cb=20170730151428",
+"nombre": "Dr Strange",
+"identidad": "Stephen Vincent Strange",
+"edad": "57 años",
+"altura": "1.89",
+"genero": "Masculino",
+"descripcion": "Doctor Strange sirve como el Hechicero Supremo, el principal protector de la Tierra contra las amenazas mágicas y místicas. Tiene un traje con dos objetos místicos: la Capa de Levitación y el Ojo de Agamotto, que le otorgan poderes adicionales."
+},
+
+{
+"imagen": "https://purepng.com/public/uploads/large/purepng.com-spider-manspider-manspidermansuperherocomic-bookmarvel-comicscharacterstan-leegamesmovie-1701528656197qfp5m.png",
+"nombre": "Spiderman",
+"identidad": "Peter Parker",
+"edad": "58 años",
+"altura": "1.78",
+"genero": "Masculino",
+"descripcion": "Su historia de origen lo tiene adquiriendo habilidades relacionadas con la araña después de un mordisco de una araña radioactiva; estos incluyen aferrarse a las superficies, disparar telarañas desde dispositivos montados en la muñeca y detectar el peligro con su sentido arácnido"
+},
+
+{
+"imagen": "http://www.pngmart.com/files/2/Black-Widow-PNG-File.png",
+"nombre": "Viuda Negra",
+"identidad": "Natalia Alianovna Romanova",
+"edad": "56 años",
+"altura": "1.70",
+"genero": "Femenino",
+"descripcion": "El personaje fue presentado como una espía rusa, una antagonista del superhéroe Iron Man. Más tarde, desertó a los Estados Unidos, convirtiéndose en una agente de la organización ficticia S.H.I.E.L.D., y miembro del equipo de superhéroes, Los Vengadores."
+},
+
+{
+"imagen": "http://www.pngall.com/wp-content/uploads/2016/05/Loki-High-Quality-PNG.png",
+"nombre": "Loki",
+"identidad": "Loki Laufeyson",
+"edad": "58 años",
+"altura": "1.80",
+"genero": "Masculino",
+"descripcion": "Él es el hermano adoptado y, a menudo, el enemigo del superhéroe Thor. Loki se basa en la deidad nórdica del mismo nombre y, a veces se describe como un antihéroe."
+},
+
+{
+"imagen": "http://www.pngall.com/wp-content/uploads/2016/05/Marvel-Vision-PNG-Image.png",
+"nombre": "Vision",
+"identidad": "Sin dato",
+"edad": "52 años",
+"altura": "1.78",
+"genero": "Masculino",
+"descripcion": "Es un androide y superhéroe ficticio de los cómics Marvel Comics, fue un androide con un cuerpo sintético de Vibranio creado por Ultrón y la Doctora Helen Cho."
+},
+
+{
+"imagen": "http://vignette2.wikia.nocookie.net/avengersalliance/images/8/8b/Storm-Modern-iOS.png/revision/latest?cb=20130613114349",
+"nombre": "Tormenta",
+"identidad": "Ororo Iqadi Munroe",
+"edad": "45 años",
+"altura": "1.81",
+"genero": "Femenino",
+"descripcion": "La caracterizan sus ojos azules, pelo blanco y tez oscura. Ella es capaz de controlar el clima y la atmósfera y se considera que es uno de los mutantes más poderosos del planeta."
+}
+
+]
