@@ -1,6 +1,6 @@
 # act3_mapeo_json
 
-A new Flutter application.
+Aplicación de superheroes, donde se obtiene la información mediante el uso de un JSON.
 
 ## Getting Started
 
